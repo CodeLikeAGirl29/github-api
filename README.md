@@ -1,5 +1,7 @@
 # Github Profile using [Github API](https://docs.github.com/en/rest)
 
+![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=github-api)
+
 Created a dynamic PWA using React, styled-components, and the Github API.
 
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -9,6 +11,37 @@ Created a dynamic PWA using React, styled-components, and the Github API.
 ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ![](https://res.cloudinary.com/codelikeagirl29/image/upload/v1666161001/projects/React-App_txcqxb.png)
+
+---
+
+## Getting Started
+
+Instructions for getting this to display your Github stats.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/codelikeagirl29/github-api.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Enter your username in `/src/containers/Profile.js`
+   ```js
+   	const profile = await fetch(
+				'https://api.github.com/users/codelikeagirl29'
+			);
+   ```
 
 ---
 
