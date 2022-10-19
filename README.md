@@ -1,3 +1,17 @@
+# Github Profile using [Github API](https://docs.github.com/en/rest)
+
+Created a dynamic PWA using React, styled-components, and the Github API.
+
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+![](https://res.cloudinary.com/codelikeagirl29/image/upload/v1666161001/projects/React-App_txcqxb.png)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
