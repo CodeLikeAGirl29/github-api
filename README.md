@@ -21,7 +21,7 @@ Instructions for getting this to display your Github stats.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+
   ```sh
   npm install npm@latest -g
   ```
@@ -29,14 +29,19 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. Clone the repo
+
    ```sh
    git clone https://github.com/codelikeagirl29/github-api.git
    ```
+
 2. Install NPM packages
+
    ```sh
    npm install
    ```
+
 3. Enter your username in `/src/containers/Profile.js`
+
    ```js
    	const profile = await fetch(
 				'https://api.github.com/users/codelikeagirl29'
